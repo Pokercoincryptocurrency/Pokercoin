@@ -5,9 +5,7 @@ POKERCOIN is a hybrid scrypt PoW + PoS-based cryptocurrency.
 
 Startup date: 08/21/2017
 
-Balanced PoW blocks and stakes weighting
 
-Maximum PoW reward is 1000 coins
 
 Development process
 ===========================
